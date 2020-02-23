@@ -1,2 +1,2 @@
 # rgenoma
-//Practivas r genoma 
+//Practivas r genoma q
